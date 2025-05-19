@@ -67,9 +67,9 @@ RIB Generator utilise le package Dompdf pour générer des PDF à partir de mod�
 ## 🔖 Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://github.com/votre-utilisateur/rib-generator)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://github.com/votre-utilisateur/rib-generator)
-[![Dompdf](https://img.shields.io/badge/Dompdf-PDF_Generation-red)](https://github.com/votre-utilisateur/rib-generator)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://github.com/o2Cloud-fr/RibTOPdf)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://github.com/o2Cloud-fr/RibTOPdf)
+[![Dompdf](https://img.shields.io/badge/Dompdf-PDF_Generation-red)](https://github.com/o2Cloud-fr/RibTOPdf)
 
 ## 💬 Feedback
 
@@ -77,8 +77,8 @@ Si vous avez des commentaires ou des suggestions, n'hésitez pas à ouvrir une i
 
 ## 🔗 Liens
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil/)
-[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/votre-utilisateur)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remi-simier-2b30142a1/)
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/o2Cloud-fr/)
 
 ## 🛠️ Compétences
 
