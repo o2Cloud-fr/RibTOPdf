@@ -26,7 +26,7 @@
 
 1. Clonez le dépôt sur votre serveur web
 ```bash
-git clone https://github.com/RibTOPdf/RibTOPdf.git
+git clone https://github.com/o2Cloud-fr/RibTOPdf.git
 ```
 
 2. Accédez au répertoire du projet
